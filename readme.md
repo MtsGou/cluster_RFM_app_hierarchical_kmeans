@@ -10,6 +10,6 @@ This project used a KMeans model and a hierarchical model to categorize customer
 
 RFM stands for Recency, Frequency and Monetary. For each customer, each of these three values ​​are obtained.Recency stands for the number of days since the customer's last purchase. Frequency tells how many purchases the customer has made since registering. And finally, Monetary represents how much the customer spends on purchases, for example, the average value of transactions.
 
-Check the streamlit app [**here**](link).
+Check the streamlit app [**here**](https://app-cluster-hierarchical-kmeans-rfm.streamlit.app/).
 
 
