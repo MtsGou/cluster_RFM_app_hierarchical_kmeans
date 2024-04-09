@@ -6,10 +6,10 @@
 
 ## Description
 
-This project used a KMeans model and a hierarchical model to categorize customers in a company based in RFM (recency, frequency, monetary). This was made using data that specifies variables "InvoiceNo","Quantity","InvoiceDate","UnitPrice" and "CustomerID".
+This project used a hierarchical model and PCA to categorize customers in a company based in RFM (recency, frequency, monetary). This was made using data that specifies variables "InvoiceNo","Quantity","InvoiceDate","UnitPrice" and "CustomerID".
 
 RFM stands for Recency, Frequency and Monetary. For each customer, each of these three values ​​are obtained.Recency stands for the number of days since the customer's last purchase. Frequency tells how many purchases the customer has made since registering. And finally, Monetary represents how much the customer spends on purchases, for example, the average value of transactions.
 
-Check the streamlit app [**here**](https://app-cluster-hierarchical-kmeans-rfm.streamlit.app/).
+Check the streamlit app [**here**](https://app-cluster-hierarchical-kmeans-rfm.streamlit.app/). Also, check the complete repository of this study on /clustering_RFM_model.
 
 
